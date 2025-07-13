@@ -1,3 +1,5 @@
-# Mölkulator
+---
+title: Mölkulator
+---
 
 Hello Mölkky!
